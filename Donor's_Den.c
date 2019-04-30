@@ -121,7 +121,7 @@ void mainpage()
     printf("* Donor's Den *\n***************\n");
     printf("\nDonate Blood, Be a Hero.\n\n");
 
-    printf("1. Login\n2. Registration\n3. Developers\n4. Exit\n\n--> ");
+    printf("1. Login\n2. Registration\n3. Developer\n4. Exit\n\n--> ");
     scanf("%d",&x);
     int log;
     switch (x)
@@ -145,7 +145,7 @@ void mainpage()
                 printf("**************\n* Developers *\n**************\n\n");
 
 
-                printf("Asif Shahriar\n\nMehedi Hasan\n\nAshik Joy\n");
+                printf("Asif Shahriar\n\nID: 171-15-8617\n\nData Structure\n");
                 getch();
                 system("cls");
                 mainpage();
