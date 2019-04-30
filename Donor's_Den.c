@@ -142,7 +142,7 @@ void mainpage()
                 break;
         case 3:
                 system("cls");
-                printf("**************\n* Developers *\n**************\n\n");
+                printf("**************\n* Developer *\n**************\n\n");
 
 
                 printf("Asif Shahriar\n\nID: 171-15-8617\n\nData Structure\n");
